@@ -1,1 +1,2 @@
-# SSOO-tarea03
+### Miguel Andres Escobar Palta
+#### miguel.escobarp@alumnos.uv.cl
